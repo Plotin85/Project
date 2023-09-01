@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 800px;
+  background: url(/src/img/bg/main_bg.png) center center no-repeat;
+  padding: 40px 0 60px 0;
+}
+
+.logo .logo-header {
+  display: block;
+  margin: 0 auto;
+}
+
+.logo .logo-discription {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.first-title {
+  margin-top: 50px;
+}
+
+.second-title {
+  margin-top: 20px;
+}
+.page-title {
+  color: #f9bf3b;
+  text-align: justify;
+  font-family: Roboto;
+  font-size: 41px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 41px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.simple {
+  margin-top: 20px;
+  display: block;
+  color: #fff;
+  text-align: justify;
+  font-family: Roboto;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 80px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.promo-text {
+  margin-top: 20px;
+  display: block;
+  color: #fff;
+  text-align: justify;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 28px;
+  text-align: center;
+}
+
+.promo-text-strong {
+  color: #f9bf3b;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.header-btn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 70px;
+  width: 313px;
+  height: 72px;
+  flex-shrink: 0;
+  background: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.4);
+  color: #fff;
+  text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+  font-family: RobotoCondensed;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+}
+
+.more-text {
+  margin-top: 70px;
+  color: #fff;
+  text-align: justify;
+  font-family: Roboto;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 24px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.more-img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
