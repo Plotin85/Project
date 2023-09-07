@@ -256,7 +256,7 @@
 .after-finish-round {
   display: flex;
   justify-content: center;
-  align-items:center;
+  align-items: center;
   margin: 0 auto;
   width: 118px;
   height: 118px;
@@ -278,4 +278,37 @@
   font-style: normal;
   font-weight: 300;
   line-height: 20px;
+}
+
+.bonus-block {
+  width: 1920px;
+  min-height: 631px;
+  margin: 0 auto;
+  background: #EFEFEF;
+}
+
+.bonus-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+ padding-top: 88px;
+}
+
+.discription-text {
+  width: 1161px;
+  height: 113px;
+  margin: 0 auto;
+  margin-top: 45px;
+  color: #252525;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 43px;
+}
+
+.bonus-btn {
+  margin-top: 51px;
 }
