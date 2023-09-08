@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+html {
+  font-family: "Roboto", sans-serif;
+}
+
 .container {
   width: 1140px;
   margin: 0 auto;
@@ -22,7 +26,6 @@
 
 .logo .logo-discription {
   color: #fff;
-  font-family: Roboto;
   font-size: 15px;
   font-weight: 500;
   line-height: 24px;
@@ -41,7 +44,6 @@
 .page-title {
   color: #f9bf3b;
   text-align: justify;
-  font-family: Roboto;
   font-size: 41px;
   font-style: normal;
   font-weight: 900;
@@ -55,7 +57,6 @@
   display: block;
   color: #fff;
   text-align: justify;
-  font-family: Roboto;
   font-size: 80px;
   font-style: normal;
   font-weight: 900;
@@ -69,7 +70,6 @@
   display: block;
   color: #fff;
   text-align: justify;
-  font-family: Roboto;
   font-size: 21px;
   font-style: normal;
   font-weight: 300;
@@ -79,7 +79,6 @@
 
 .promo-text-strong {
   color: #f9bf3b;
-  font-family: Roboto;
   font-size: 21px;
   font-style: normal;
   font-weight: 700;
@@ -97,7 +96,6 @@
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.4);
   color: #fff;
   text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
-  font-family: RobotoCondensed;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -110,7 +108,6 @@
   margin-top: 70px;
   color: #fff;
   text-align: justify;
-  font-family: Roboto;
   font-size: 15px;
   font-style: normal;
   font-weight: 100;
@@ -139,7 +136,6 @@
 .block-title {
   color: #252525;
   text-align: center;
-  font-family: Roboto;
   font-size: 30px;
   font-style: normal;
   font-weight: 400;
@@ -162,7 +158,6 @@
   margin: 30px;
   color: #4a4a4a;
   text-align: center;
-  font-family: Roboto;
   font-size: 15px;
   font-style: normal;
   font-weight: 300;
@@ -194,7 +189,6 @@
   margin-top: 108px;
   margin-left: 551px;
   color: #299cbd;
-  font-family: Roboto;
   font-size: 30px;
   font-style: normal;
   font-weight: 900;
@@ -208,7 +202,6 @@
   width: 750px;
   min-height: 312px;
   color: #4a4a4a;
-  font-family: Roboto;
   font-size: 17px;
   font-style: normal;
   font-weight: 300;
@@ -235,7 +228,6 @@
 .after-finish-title {
   color: #efefef;
   text-align: center;
-  font-family: Roboto;
   font-size: 30px;
   font-style: normal;
   font-weight: 400;
@@ -274,7 +266,6 @@
   margin-top: 24px;
   text-align: center;
   color: #efefef;
-  font-family: Roboto;
   font-size: 17px;
   font-style: normal;
   font-weight: 300;
@@ -303,7 +294,6 @@
   margin-top: 45px;
   color: #252525;
   text-align: center;
-  font-family: Roboto;
   font-size: 30px;
   font-style: normal;
   font-weight: 400;
@@ -337,7 +327,6 @@
   text-align: center;
   color: #299cbd;
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
   font-style: normal;
   font-weight: 900;
@@ -350,7 +339,6 @@
   margin-bottom: 53px;
   text-align: center;
   color: #4a4a4a;
-  font-family: Roboto;
   font-size: 23px;
   font-style: normal;
   font-weight: 400;
@@ -368,7 +356,6 @@
   padding-top: 57px;
   text-align: center;
   color: #888;
-  font-family: Roboto;
   font-size: 15px;
   font-style: normal;
   font-weight: 300;
